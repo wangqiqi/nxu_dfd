@@ -4,7 +4,23 @@
 > 环保领域：扬尘检测
 > 
 
-![](assets/result.png)
+![](assets/dfd_1.jpg.jpg)
+
+![](assets/dfd_2.jpg.jpg)
+
+![](assets/dfd_3.jpg.jpg)
+
+![](assets/dfd_4.jpg.jpg)
+
+![](assets/dfd_5.jpg.jpg)
+
+![](assets/dfd_6.jpg.jpg)
+
+![](assets/dfd_7.jpg.jpg)
+
+![](assets/dfd_8.jpg.jpg)
+
+![](assets/dfd_9.jpg.jpg)
 
 模型见： 
 [百度网盘](https://pan.baidu.com/s/1YcG0zW1YbWbaiOq_lGNO7g?pwd=8dve)
